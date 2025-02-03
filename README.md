@@ -19,10 +19,10 @@ pkg update && pkg upgrade -y
 pkg install git -y
 ```
 ```bash
-git clone https://github.com/krishealty/venom-instagram-bruteforce
+git clone https://github.com/FantasticSukhi/Insta-bruteforce
 ```
 ```bash
-cd venom-instagram-bruteforce
+cd Insta-bruteforce
 ```
 ```bash
 bash setup
@@ -44,21 +44,18 @@ sudo apt-get update && pkg upgrade -y
 sudo apt-get install git -y
 ```
 ```bash
-git clone https://github.com/krishealty/venom-instagram-bruteforce
+git clone https://github.com/FantasticSukhi/Insta-bruteforce
 ```
 ```bash
-cd venom-instagram-bruteforce
+cd Insta-bruteforce
 ```
 ```bash
 bash setup
 ```
 
- 
-Don't exit old terminal/session
 Open New Terminal/Session And execute the script:-
 
 ```bash
 bash main.sh
 ```
 
-<img src="venom.jpg">
