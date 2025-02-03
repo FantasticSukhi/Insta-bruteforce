@@ -1,7 +1,6 @@
-<img src="venom.gif">
 
 ## About
-Venom, Simplified and Fast Instagram Brute Force attacks with more than 10,000,000 passwords and custom attacks.
+Insta-bruteforce, Simplified and Fast Instagram Brute Force attacks with more than 10,000,000 passwords and custom attacks.
 
 ## Features 
 * Auto Attack
